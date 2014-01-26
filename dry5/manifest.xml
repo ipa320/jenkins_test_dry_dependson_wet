@@ -1,0 +1,17 @@
+<package>
+  <description brief="dry5">
+
+     dry5
+
+  </description>
+  <author>jenkins</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/dry5</url>
+  <depend package="roscpp"/>
+  <depend package="wet1"/>
+  <depend package="wet2"/>
+
+</package>
+
+
