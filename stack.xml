@@ -1,0 +1,14 @@
+<stack>
+  <description brief="jenkins_test_dry_dependson_wet">
+
+  </description>
+  <author>Maintained by fmw</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/jenkins_test_dry_dependson_wet</url>
+
+  <depend stack="roscpp" />
+  <depend stack="rostest" />
+  <depend stack="jenkins_test_wet" />
+
+</stack>
